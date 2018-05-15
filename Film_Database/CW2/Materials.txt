@@ -1,0 +1,3 @@
+COMBO-BOX\0,Iron Man,7,CARDBAORD,5.000000,2.000000,9.000000,
+DOUBLE-SIDED_DVD\1,Iron Man 1,VOL,DOLBY,126,4,2.35:1,PLASTIC,5.000000,2.000000,9.000000,English-Arabic-Persian-Urdu-Hungarian,English-Arabic-Persian-Urdu-Hungarian
+SINGLE-SIDED_DVD\2,Iron Man 2,VOL,DOLBY_DIGITAL,124,2,2.35:1,PLASTIC,5.000000,2.000000,9.000000,English-Russian-French,English-Russian-French,English-Russian-French

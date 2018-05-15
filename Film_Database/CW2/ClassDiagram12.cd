@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComboBox">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQEAACAAAIEAAAAEAAAAIAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ComboBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller">
+    <Position X="14.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAgAAAEABABAE=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Double_SidedOpticalDisc">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAACAAAAAAgAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Double_SidedOpticalDisc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileManager">
+    <Position X="14.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Language">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Langauge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Material">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <AssociationLine Name="contanerPackaging" Type="Packaging">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="3.12" Y="0.081" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEAAQAwAAAEgAAmQIAkYAEYAIAQIAIQARQCCgAAQDAA=</HashCode>
+      <FileName>Material.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="contanerPackaging" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MultipleLanguage">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>MultipleLanguages.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultipleSubtitles">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>MultipleSubtitles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpticalDisc">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAAAAAEAAAAAAQAAAIAAAAAUAAAAAE=</HashCode>
+      <FileName>OpticalDisc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Packaging">
+    <Position X="1" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABIBAAAEAAAQAQAAAAASAAAIAAIQEAAAAIAAAAAA=</HashCode>
+      <FileName>Packaging.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleLanguage">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>SingleLanguage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleSubtitle">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>SingleSubtitle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Single_SidedOpticalDisc">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAACAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Single_SidedOpticalDisc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subtitle">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Subtitle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VHS">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAQAAACAAAAAAAAQAAQAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VHS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View">
+    <Position X="14.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAEAAAAAAAAAAACBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
